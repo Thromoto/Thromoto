@@ -1,6 +1,11 @@
-### Boas vindas ao meu perfil :wave:
+### Welcome to my GitHub Profile! :wave:
 
-- 😄 Olá, me chamo Thiago Omoto
+## About Me
+
+- 😄 Hello, I'm Thiago Omoto;
   
-- 🌱 Estudande de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/)
+- 🌱 Full-Stack Web Development student at [Trybe](https://www.betrybe.com/);
 
+## Contact me
+
+<a href="thi.omoto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
