@@ -30,8 +30,8 @@
 ## GitHub Stats
 
 <a href="https://camo.githubusercontent.com/244e568a55c47acd046be45459c0328e8eb6f7df6c005f499001e6531f793b8c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5468726f6d6f746f26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d61707072656e74696365">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thromoto&count_private=true&show_icons=true&theme=apprentice" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Thromoto&count_private=true&show_icons=true&theme=apprentice" style="max-width: 100%;" />
 </a>
 <a href="https://camo.githubusercontent.com/b8a874ed585916c4127a6930b389604695e9d7af307a773f7d8e403356cf5f0a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5468726f6d6f746f266c61796f75743d636f6d70616374267468656d653d61707072656e74696365">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thromoto&layout=compact&theme=apprentice" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thromoto&layout=compact&theme=apprentice" style="max-width: 100%;" />
 </a>
