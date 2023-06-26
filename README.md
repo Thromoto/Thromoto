@@ -30,8 +30,8 @@
 ## GitHub Stats
 
 <a href="https://github.com/Thromoto/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thromoto&count_private=true&show_icons=true&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thromoto&count_private=true&show_icons=true&theme=apprentice" />
 </a>
 <a href="https://github.com/Thromoto/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thromoto&layout=compact&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thromoto&layout=compact&theme=apprentice" />
 </a>
